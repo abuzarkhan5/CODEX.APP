@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base typography for a clean, minimal feel */
+body {
+  font-family: "Inter", "SF Pro Text", system-ui, -apple-system, sans-serif;
+}
